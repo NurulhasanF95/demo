@@ -1,0 +1,11 @@
+public class test
+{
+    public void firstmethod
+    {
+    sysout("firstmethod");
+    }
+    public void secondmethod
+    {
+    sysout("secondmethod");
+    }
+}
